@@ -21,4 +21,3 @@ We are currently making no changes to the underlying UD for Italian.
 ## Known issues
 
 - We believe the recall for raised arguments to be low for Italian.
-- For Portuguese, we did not yet execute the curation approach of our COLING 2016 paper and used heuristic frame aliasing instead. This approach favors frame recall at the cost of precision.
